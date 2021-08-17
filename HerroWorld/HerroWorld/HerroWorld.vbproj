@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{C226DE98-B1C1-40AE-B893-66C7F600287D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>HerroWorld.Module1</StartupObject>
+    <StartupObject>HerroWorld.Startup</StartupObject>
     <RootNamespace>HerroWorld</RootNamespace>
     <AssemblyName>HerroWorld</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -69,7 +69,7 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Module1.vb" />
+    <Compile Include="Startup.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>

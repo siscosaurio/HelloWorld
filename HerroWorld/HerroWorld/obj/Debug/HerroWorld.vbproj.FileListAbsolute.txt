@@ -1,0 +1,11 @@
+C:\Users\Sisco\Desktop\CodingPractice\HerroWorld\HerroWorld\obj\Debug\HerroWorld.vbproj.AssemblyReference.cache
+C:\Users\Sisco\Desktop\CodingPractice\HerroWorld\HerroWorld\obj\Debug\HerroWorld.Resources.resources
+C:\Users\Sisco\Desktop\CodingPractice\HerroWorld\HerroWorld\obj\Debug\HerroWorld.vbproj.GenerateResource.cache
+C:\Users\Sisco\Desktop\CodingPractice\HerroWorld\HerroWorld\obj\Debug\HerroWorld.vbproj.CoreCompileInputs.cache
+C:\Users\Sisco\Desktop\CodingPractice\HerroWorld\HerroWorld\bin\Debug\HerroWorld.exe.config
+C:\Users\Sisco\Desktop\CodingPractice\HerroWorld\HerroWorld\bin\Debug\HerroWorld.exe
+C:\Users\Sisco\Desktop\CodingPractice\HerroWorld\HerroWorld\bin\Debug\HerroWorld.pdb
+C:\Users\Sisco\Desktop\CodingPractice\HerroWorld\HerroWorld\bin\Debug\HerroWorld.xml
+C:\Users\Sisco\Desktop\CodingPractice\HerroWorld\HerroWorld\obj\Debug\HerroWorld.exe
+C:\Users\Sisco\Desktop\CodingPractice\HerroWorld\HerroWorld\obj\Debug\HerroWorld.xml
+C:\Users\Sisco\Desktop\CodingPractice\HerroWorld\HerroWorld\obj\Debug\HerroWorld.pdb
